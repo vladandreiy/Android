@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">StepCounter</string>
+    <string name="title_activity_debug">DebugActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="action_debug">Debug View</string>
+    <string name="steps_tracked">Steps Tracked: 0</string>
+    <string name="android_steps_tracked">Android Steps Tracked: 0</string>
+    <string name="current_speed">Current speed: 0 m/s</string>
+    <string name="step_progress">Step Goal: 500.\n Progress: 0/500</string>
+    <string name="enter_step_goal">Enter step goal</string>
+    <string name="update_goal">Update Goal</string>
+    <string name="data_view">DATA VIEW</string>
+    <string name="estimated_speed">Estimated speed: 0 m/s</string>
+    <string name="action_data">Data View</string>
+</resources>
